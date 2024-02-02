@@ -16,6 +16,9 @@ pip install pyttsx3
 pip install pydub
 
 After installing those, run the python file in the same directory,
+
 Ex:
+
 Cd Folder
+
 python WikipediaMain.py
